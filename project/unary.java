@@ -4,8 +4,8 @@ class opera{//class name
         int b=-13;//integer variable b
         boolean c=true;
         boolean d=false;
-        System.out.println(~20);//19(positive of total minus, positive starts from 0)
-        System.out.println(~13);//-14(minus of total positive value starts from 0)
+        System.out.println(~a);//-21(positive of total minus, positive starts from 0)
+        System.out.println(~b);//12(minus of total positive value starts from 0)
         System.out.println(!c);//opposite of boolean value
         System.out.println(!d);//opposite of boolean value
     }
